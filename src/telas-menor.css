@@ -22,13 +22,6 @@
     max-height: 1000px;
   }
 
-  .perfil-img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    margin-bottom: 10px;
-  }
-
   /*************************************/
   .scrollbar-hide {
     -ms-overflow-style: none; /* Para Internet Explorer e Edge */
@@ -41,7 +34,7 @@
 
 @media (max-width: 400px) {
   .pefil-img {
-    width: 150px;
+    width: 90px;
     border-radius: 50%;
   }
 }
