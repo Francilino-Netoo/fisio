@@ -1,6 +1,6 @@
 import { X } from "lucide-react"; // Ícone de fechar
 import "./styles.css";
-import Fisio from "../images/fisio.jpg";
+import Fisio from "../images/fisio.png";
 
 interface SobreProps {
   isOpen: boolean;
