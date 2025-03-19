@@ -13,7 +13,7 @@ import image5 from "./images/5.png";
 import image7 from "./images/7.png";
 import image10 from "./images/10.png";
 import image11 from "./images/11.png";
-import fisio from "./images/fisio.png";
+import fisio from "./images/fisio.jpg";
 import logo from "./images/logo.png";
 
 import insta from "./images/insta.png";
