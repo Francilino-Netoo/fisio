@@ -1,0 +1,15 @@
+.contact-info {
+  @apply space-y-4;
+}
+
+.contact-item {
+  @apply flex items-center;
+}
+
+.contact-icon {
+  @apply text-[#0077B6] mr-2;
+}
+
+.map-container {
+  @apply rounded-lg overflow-hidden;
+}

@@ -1,0 +1,15 @@
+.testimonial-card {
+  @apply bg-white p-6 rounded-lg shadow-md;
+}
+
+.testimonial-text {
+  @apply text-gray-600 mb-4;
+}
+
+.testimonial-author {
+  @apply flex items-center;
+}
+
+.author-image {
+  @apply w-12 h-12 rounded-full mr-4;
+}

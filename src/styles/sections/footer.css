@@ -1,0 +1,19 @@
+.footer {
+  @apply bg-[#0077B6] text-white py-8;
+}
+
+.footer-title {
+  @apply text-xl font-bold mb-4;
+}
+
+.footer-links {
+  @apply space-y-2;
+}
+
+.footer-link {
+  @apply hover:text-gray-300 transition duration-300;
+}
+
+.footer-divider {
+  @apply mt-8 pt-8 border-t border-white/20 text-center;
+}

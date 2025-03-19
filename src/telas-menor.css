@@ -1,0 +1,47 @@
+@media (max-width: 800px) {
+  .container {
+  }
+
+  .name {
+    margin-top: 5px;
+    color: #000;
+    font-weight: bold;
+  }
+  .hero-overlay {
+    height: 200px;
+  }
+  .hero-overlay p {
+    color: #999;
+    font-size: 15px;
+  }
+
+  .images {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    max-height: 1000px;
+  }
+
+  .perfil-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+
+  /*************************************/
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* Para Internet Explorer e Edge */
+    scrollbar-width: none; /* Para Firefox */
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none; /* Para Chrome, Safari e Opera */
+  }
+}
+
+@media (max-width: 400px) {
+  .pefil-img {
+    width: 150px;
+    border-radius: 50%;
+  }
+}

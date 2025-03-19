@@ -1,0 +1,11 @@
+.nav-link {
+  @apply text-gray-700 hover:text-[#0077B6] transition duration-300;
+}
+
+.mobile-menu {
+  @apply px-2 pt-2 pb-3 space-y-1 bg-white border-t border-gray-100;
+}
+
+.mobile-menu-link {
+  @apply block px-3 py-2 text-gray-700 hover:text-[#0077B6] transition duration-300;
+}
